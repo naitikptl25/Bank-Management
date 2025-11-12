@@ -1,4 +1,4 @@
-# Console Input Handling in C++ (Windows Compatible)
+# Bank Management System with Console (Windows Compatible)
 
 This project demonstrates **secure character input handling** in the console using the `<conio.h>` library in C++.  
 It allows taking user input **without displaying characters on the screen**, which is especially useful for **password input** or **interactive command-line applications**.
